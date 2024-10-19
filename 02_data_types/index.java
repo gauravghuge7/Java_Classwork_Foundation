@@ -4,15 +4,13 @@ public class index {
 
    public static void main(String[] args) {
       
-      // Integer data type
+      
+	// Byte Data types 
 
-      // int a = 15;
+	byte chaiPrice = 127;
+	
+	System.out.println(" chai price =  " + chaiPrice);	
 
-      float b = 25.78f;
-
-      System.out.println("this is number "+b);
-
-      // float Data Type  
 
    }
 }
