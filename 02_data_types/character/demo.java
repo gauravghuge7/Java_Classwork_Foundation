@@ -8,5 +8,14 @@ public class demo {
 
       System.out.println("character  = "+ character);
 
+
+      
+
+      char data = 'g';
+
+      System.out.println(data);
+
+      // ""  // this is the string 
+
    }
 }
