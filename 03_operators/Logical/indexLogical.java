@@ -1,5 +1,7 @@
 
-public class index {
+public class indexLogical {
+
+   
    
    public static void main(String[] args) {
       

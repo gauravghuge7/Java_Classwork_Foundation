@@ -1,6 +1,6 @@
 
 
-class demo {
+class demoArithmetic {
 
    public static void main(String args[]) {
 

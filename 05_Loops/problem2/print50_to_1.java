@@ -1,6 +1,7 @@
 
 
 class print50_to_1 {
+   
    public static void main(String[] args) {
       
       /** 
@@ -12,3 +13,5 @@ class print50_to_1 {
       }
       
    }
+
+}

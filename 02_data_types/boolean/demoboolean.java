@@ -13,13 +13,6 @@ public class demoboolean {
 
 
 
-
-
-
-
-
-
-
       
 
 

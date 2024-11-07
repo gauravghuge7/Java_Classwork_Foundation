@@ -1,5 +1,7 @@
 
-public class demo {
+public class demoAssignment {
+
+   
 
    public static void main(String[] args) {
       

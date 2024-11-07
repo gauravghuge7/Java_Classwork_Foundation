@@ -1,5 +1,5 @@
 
-public class index {
+public class indexCommon {
    
 
    public static void main(String[] args) {

@@ -1,6 +1,9 @@
 
 
-public class demo {
+public class demoTernary {
+
+   
+
    
    public static void main(String[] args) {
       
