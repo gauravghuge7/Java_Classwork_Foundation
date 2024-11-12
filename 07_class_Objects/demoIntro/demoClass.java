@@ -30,7 +30,7 @@ class Car {
 
 
 class Adhaar {
-   
+
 }
 
 
@@ -42,6 +42,7 @@ class demoClass {
       
       Student pravin = new Student();
 
+      
 
 
    }
