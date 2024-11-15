@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "temp",
+      "request": "launch",
+      "mainClass": "temp",
+      "projectName": "Java_ClassWork_Foundation_9adfd882"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
