@@ -46,6 +46,11 @@ class Main {
       realme.insert("narzo", 256 ,8 ,4500 , 30000);   // use object name rather than className
       
       realme.display();  
+
+
+      
+
+
       
    }
 }

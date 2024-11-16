@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "accept",
+      "request": "launch",
+      "mainClass": "day08_Scanner_class.AcceptInput.accept",
+      "projectName": "Java_ClassWork_Foundation_9adfd882"
+    },
+    {
+      "type": "java",
+      "name": "demoCheck",
+      "request": "launch",
+      "mainClass": "demoCheck",
+      "projectName": "Java_ClassWork_Foundation_9adfd882"
+    },
+    {
+      "type": "java",
       "name": "temp",
       "request": "launch",
       "mainClass": "temp",
