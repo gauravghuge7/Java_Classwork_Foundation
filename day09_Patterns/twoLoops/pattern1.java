@@ -64,8 +64,8 @@ public class pattern1 {
    public static void main(String[] args) {
       
       // rightAngleJ();
-      // rightAngle();
+      rightAngle();
 
-      countable(5);
+      // countable(25);
    }
 }

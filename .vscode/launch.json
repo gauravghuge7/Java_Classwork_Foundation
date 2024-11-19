@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "demoArray",
+      "request": "launch",
+      "mainClass": "day10_Array_1D.intro.demoArray",
+      "projectName": "Java_ClassWork_Foundation_9adfd882"
+    },
+    {
+      "type": "java",
       "name": "pattern1",
       "request": "launch",
       "mainClass": "day09_Patterns.twoLoops.pattern1",
