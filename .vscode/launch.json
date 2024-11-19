@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pattern1",
+      "request": "launch",
+      "mainClass": "day09_Patterns.twoLoops.pattern1",
+      "projectName": "Java_ClassWork_Foundation_9adfd882"
+    },
+    {
+      "type": "java",
+      "name": "repeated",
+      "request": "launch",
+      "mainClass": "day09_Patterns.twoLoops.repeated",
+      "projectName": "Java_ClassWork_Foundation_9adfd882"
+    },
+    {
+      "type": "java",
       "name": "printNum",
       "request": "launch",
       "mainClass": "day09_Patterns.twoLoops.printNum",

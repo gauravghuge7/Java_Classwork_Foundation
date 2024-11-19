@@ -17,10 +17,10 @@ public class printNum {
       }
 
 
-      int[] arr = new int[];   // fixed array 
+      // int[] arr = new int[];   // fixed array 
 
 
-      arr[6] = 56;
+      // arr[6] = 56;
 
       int[] arr2 = {1,2,3,4, 56, 78, 78,90, 89};
 
