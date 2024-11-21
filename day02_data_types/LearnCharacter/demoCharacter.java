@@ -1,0 +1,22 @@
+package day02_data_types.LearnCharacter;
+
+public class demoCharacter {
+   
+
+   public static void main(String[] args) {
+
+      char character  = '@';
+
+      System.out.println("character  = "+ character);
+
+
+      
+
+      char data = 'g';
+
+      System.out.println(data);
+
+      // ""  // this is the string 
+
+   }
+}

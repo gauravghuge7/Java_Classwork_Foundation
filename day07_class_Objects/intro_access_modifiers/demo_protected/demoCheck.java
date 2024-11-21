@@ -14,7 +14,10 @@ class car {
       return this.color;
    }
 
-
+   public car(String color) {
+      this.color = color;
+   }
+   
 }
 
 

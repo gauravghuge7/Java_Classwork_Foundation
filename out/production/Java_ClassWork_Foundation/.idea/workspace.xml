@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fceb5468-14dd-49b3-a0ad-f317edb060a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_ClassWork_Foundation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_data_types/day02_data_types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_operators/day03_operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_Loops/day05_Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_Loops/problem7/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06_functions/day06_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_class_Objects/day07_class_Objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09_Patterns/day09_Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day234/day234.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/demoRelational.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/c_print/print.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_introduction_to_java/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/Integer/demoInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/Non_Primitive_java/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/Non_Primitive_java/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_data_types/Non_Primitive_java/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/boolean/demoboolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/boolean/demoboolean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/character/demoCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/double/demoDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/float/demoFloat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/indexCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_data_types/day02_data_types/indexCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/short/indexShort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_data_types/temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_data_types/temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07_class_Objects/intro_access_modifiers/demo_protected/demoCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07_class_Objects/intro_access_modifiers/demo_protected/demoCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09_Patterns/twoLoops/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day09_Patterns/twoLoops/pattern1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2p6YkjjRn9EVLV3pOk5nqGff1Bt" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.demoArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "F:/F data/Language Foundation/Java_ClassWork_Foundation/day02_data_types",
+    "last_opened_file_path": "F:/F data/Language Foundation/Java_ClassWork_Foundation/day02_data_types",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="demoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_Array_1D.intro.demoArray" />
+      <module name="Java_ClassWork_Foundation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_Array_1D.intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demoArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fceb5468-14dd-49b3-a0ad-f317edb060a1" name="Changes" comment="" />
+      <created>1732088138577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732088138577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day02_data_types/day02_data_types/indexCommon.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
