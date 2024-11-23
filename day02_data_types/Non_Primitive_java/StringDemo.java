@@ -1,4 +1,4 @@
-package day02_data_types.Non_Primitive_java;
+package Non_Primitive_java;
 
 public class StringDemo {
    

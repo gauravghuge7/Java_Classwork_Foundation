@@ -1,4 +1,4 @@
-package day02_data_types.LearnInteger;
+package LearnInteger;
 
 
 public class demoInteger {

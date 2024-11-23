@@ -1,4 +1,4 @@
-package day02_data_types.LearnShort;
+package LearnShort;
 
 class indexShort {
 

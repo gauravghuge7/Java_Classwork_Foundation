@@ -1,4 +1,4 @@
-package day02_data_types.LearnFloat;
+package LearnFloat;
 
 class demoFloat {
 

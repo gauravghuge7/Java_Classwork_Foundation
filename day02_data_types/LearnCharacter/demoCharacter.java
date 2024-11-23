@@ -1,4 +1,4 @@
-package day02_data_types.LearnCharacter;
+package LearnCharacter;
 
 public class demoCharacter {
    

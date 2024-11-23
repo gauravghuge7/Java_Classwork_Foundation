@@ -1,4 +1,4 @@
-package day02_data_types.LearnBoolean;
+package LearnBoolean;
 
 
 public class demoboolean {

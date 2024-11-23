@@ -1,4 +1,4 @@
-
+package day05_Loops.Lcm_Hcf;
 class demoLcm {
    
    static void lcm (int a,int b){

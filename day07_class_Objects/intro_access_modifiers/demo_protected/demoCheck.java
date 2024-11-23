@@ -30,12 +30,12 @@ public class demoCheck {
    public static void main(String[] args) {
       
 
-      car alto = new car();
+      // car alto = new car();
 
-      alto.setColor("white");
+      // alto.setColor("white");
 
 
-      System.out.println(alto.color);
+      // System.out.println(alto.color);
 
 
    }

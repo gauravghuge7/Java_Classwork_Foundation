@@ -1,3 +1,4 @@
+package day01_introduction_to_java;
 
 class demo {
 
