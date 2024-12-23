@@ -1,4 +1,4 @@
-
+package  day10_Array_1D.Input;
 
 // import java.util.*;
 

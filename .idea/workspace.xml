@@ -4,14 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fceb5468-14dd-49b3-a0ad-f317edb060a1" name="Changes" comment="" />
+    <list default="true" id="fceb5468-14dd-49b3-a0ad-f317edb060a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day04_conditional/day04_conditional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_Scanner__Class/day08_Scanner__Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10_Arrays/day10_Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_OOPS/day11_OOPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_Questions/interview_Questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/gaurav.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/gaurav.javqa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_introduction_to_java/pivot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08_Scanner_class/AcceptInput/accept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08_Scanner_class/AcceptInput/accept.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08_Scanner__Class/src/accept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10_Array_1D/Final_Keyword/demoFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10_Arrays/Final_Keyword/demoFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10_Array_1D/Input/input_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10_Arrays/Input/input_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10_Array_1D/call_by_reference/refrenceArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10_Arrays/call_by_reference/refrenceArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10_Array_1D/intro/demoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10_Arrays/intro/demoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11_OOPS/Inheritance/test_Inheritance.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -29,20 +59,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.core_java_questions.executor": "Run",
     "Application.demoArray.executor": "Run",
+    "Application.intro_arrays.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "23",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "F:/F data/Language Foundation/Java_ClassWork_Foundation/day02_data_types",
-    "last_opened_file_path": "F:/F data/Language Foundation/Java_ClassWork_Foundation/day02_data_types",
+    "last_opened_file_path": "F:/F_data/Language Foundation/Java_ClassWork_Foundation",
+    "onboarding.tips.debug.path": "F:/F data/Language Foundation/Java_ClassWork_Foundation/interview_Questions/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\F_data\Language Foundation\Java_ClassWork_Foundation\day11_OOPS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.intro_arrays">
+    <configuration name="core_java_questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core_java_questions" />
+      <module name="interview_Questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day10_Array_1D.intro.demoArray" />
       <module name="Java_ClassWork_Foundation" />
@@ -56,8 +103,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="intro_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro_arrays" />
+      <module name="day10_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.intro_arrays" />
+        <item itemvalue="Application.core_java_questions" />
         <item itemvalue="Application.demoArray" />
       </list>
     </recent_temporary>

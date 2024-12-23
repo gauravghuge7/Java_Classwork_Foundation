@@ -5,11 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/Java_ClassWork_Foundation.iml" filepath="$PROJECT_DIR$/Java_ClassWork_Foundation.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02_data_types/day02_data_types.iml" filepath="$PROJECT_DIR$/day02_data_types/day02_data_types.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03_operators/day03_operators.iml" filepath="$PROJECT_DIR$/day03_operators/day03_operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_conditional/day04_conditional.iml" filepath="$PROJECT_DIR$/day04_conditional/day04_conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05_Loops/day05_Loops.iml" filepath="$PROJECT_DIR$/day05_Loops/day05_Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06_functions/day06_functions.iml" filepath="$PROJECT_DIR$/day06_functions/day06_functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07_class_Objects/day07_class_Objects.iml" filepath="$PROJECT_DIR$/day07_class_Objects/day07_class_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_Scanner__Class/day08_Scanner__Class.iml" filepath="$PROJECT_DIR$/day08_Scanner__Class/day08_Scanner__Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09_Patterns/day09_Patterns.iml" filepath="$PROJECT_DIR$/day09_Patterns/day09_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_Arrays/day10_Arrays.iml" filepath="$PROJECT_DIR$/day10_Arrays/day10_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_OOPS/day11_OOPS.iml" filepath="$PROJECT_DIR$/day11_OOPS/day11_OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/day234/day234.iml" filepath="$PROJECT_DIR$/day234/day234.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview_Questions/interview_Questions.iml" filepath="$PROJECT_DIR$/interview_Questions/interview_Questions.iml" />
     </modules>
   </component>
 </project>

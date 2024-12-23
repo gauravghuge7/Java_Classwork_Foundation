@@ -1,5 +1,3 @@
-package day08_Scanner_class.AcceptInput;
-
 import java.util.Scanner;
 
 public class accept {
